@@ -17,7 +17,7 @@ namespace ProyectoSergio
         {
             InitializeComponent();
 
-        }
+        }//Fin del InitializeComponent
         
         //Inicio del metodo del boton guardar
         private void btnGuardar_Click(object sender, EventArgs e)
@@ -36,7 +36,6 @@ namespace ProyectoSergio
                 txtDireccionTrabajo.Text);
             guardar.Flush();
             guardar.Close();
-            //Se muestra una ventana con un mensaje de que se guardo la informacion
             //Se muestra una ventana con un mensaje de que se guardo la informacion
 
             MessageBox.Show("Informacion almacenada con exito!");
