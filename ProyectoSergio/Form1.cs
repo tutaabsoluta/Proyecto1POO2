@@ -37,6 +37,8 @@ namespace ProyectoSergio
             guardar.Flush();
             guardar.Close();
             //Se muestra una ventana con un mensaje de que se guardo la informacion
+            //Se muestra una ventana con un mensaje de que se guardo la informacion
+
             MessageBox.Show("Informacion almacenada con exito!");
 
         //Se asignan comillas a cada control para dejarlos vacios
