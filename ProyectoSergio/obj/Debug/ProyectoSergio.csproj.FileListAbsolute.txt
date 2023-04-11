@@ -1,0 +1,14 @@
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\bin\Debug\ProyectoSergio.exe.config
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\bin\Debug\ProyectoSergio.exe
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\bin\Debug\ProyectoSergio.pdb
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.frmAgenda.resources
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.Properties.Resources.resources
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.csproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.exe
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.pdb
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.frmVentana.resources
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.frmCorreo.resources
+C:\Users\Sergio\Desktop\TIC\I Cuatri 2023\POO 2\Modulo 2\Proyecto\ProyectoSergio\ProyectoSergio\obj\Debug\ProyectoSergio.frmLlamada.resources
